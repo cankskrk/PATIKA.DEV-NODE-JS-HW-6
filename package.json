@@ -1,0 +1,14 @@
+{
+  "name": "patika-dev-node-js-hw-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cankskrk",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
